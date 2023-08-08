@@ -1,9 +1,3 @@
-Hii bois pandago
 
 
-
-Hello bro
-
-
-
-ok broo
+a="a+b"
